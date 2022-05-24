@@ -12,4 +12,6 @@ git branch -M main
 git remote add origin git@gihub.com .... リモートリポジトリを登録する
 git push -u origin main
 
+.gitignore file は github にプッシュしなくてもいいファイル node_module とか..
+
 ---
